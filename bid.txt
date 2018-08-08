@@ -1,0 +1,180 @@
+﻿-----------------------------Example 1------------------------
+Hi,
+My name is Eric and I'm a web expert with 10 years of experience. 
+I have sufficient knowledge of Bootstrap, HTML5, CSS, JQuery, LASS, SASS, Ajax and so on.  
+
+I've read your job post carefully and I want to say that I'm capable of building 4 HTMLs from PSD files a day.  
+
+I can start your job right now and will deliver your HTML files before the end of this week when you give me all of the PSD files.  
+
+Best wishes,
+Eric
+
+
+------------------------------Example2-----------------------
+Hi hiring manager,  
+
+I'm an experienced android and iphone app developer and I love to apply for your job since your job skills are perfectly match with my ability.  
+
+please send me the mockups of your awesome app first, and then I will send the reasonable estimation which would be lower than others. 
+
+If you are interested with me, please feel free to contact with me.  
+
+Thanks for your consideration. 
+David
+
+
+---------------------------------Example3--------------------------
+Dear sir,  
+
+My name is David Lambert and I'm writing with regard to my desire for your job.  
+
+I have built a number of websites with wordpress, laravel, RoR, CI, magento skills for 8+ years. 
+and recently I'm working on ionic app development with AngularJS, Node.js for 2 years.  
+
+I can show you my ability by doing some work of your job before you hire me.
+
+I'm aiming at building the highest quality apps more competitive than others in the market.  
+
+- Development area
+* iPhone, iPod, iPad, Android
+* design, cocoa, cocoa-touch, objective-c, swift
+* Social Media - Facebook, Twitter, Google+
+* Camera capabilities for photo and video + social sharing like instagram
+* iCloud, CoreData, Story board, Newsstand, CoreAnimation
+* Google Map Service, Foursquare, Geo Location
+* CoreData, CoreGraphics, Animation
+* Web Service, Ajax, XML, JSON, RSS, SOAP, WSDL
+* MySQL, SQLite, HTML5, PHP, JSON
+* Live Stream Video/Audio 
+* Flurry, Testflight
+
+- My Availability : 
+* I can work in Pacific Time Zone and EST timezone. 
+* I can dedicate 50+ hours per week in full time. 
+* I can contact with you on skype / email.  
+
+- My Responsibility : 
+* Fast turn around 
+* Technical analysis of requirements  
+* Produce a solid, detailed technical design 
+* Write clean, modular, robust code  
+
+I hope I have demonstrated to you my interest and motivation to get involved in your project.  
+
+I WOULD LOVE TO HEAR FROM YOU, SO PLEASE GET IN TOUCH WITH ME  
+
+Yours sincerely, 
+David
+
+
+
+
+-----------------------Example4--------------------------
+
+Hello, client!
+
+I've much experience for developing the web using symfony framework.
+
+Last year, I have developed the israel tv site using symfony framework and mongo db.
+
+https://www.israel.tv
+https://mobile.israel.tv
+https://smart.israel.tv
+
+That are all the symfony framework.
+
+I have a code of it on bitbucket.org.
+
+If you check it, You can know my skill of php and others.
+
+My skill is followings...
+
+- 8+ years developing experience
+- 4+ years symfony framework experience
+- 2+ years experience building large scale custom web application.
+- 5+ years experience in a mysql and mongo db, Oracle db environment.
+- 8+ years experience in CSS, HTML, Javascript/jQuery.
+- bitbucket and github, SVN
+
+I hope to work with you.
+
+Let's discuss more detail.
+
+Thanks.
+
+----------------------Example 5--------------------
+For last 5 years, I have developed web and mobile apps for startups and large companies.
+
+The area of my web development experiences include;
+
+- ReatJS, Redux, NodeJS, ExpressJS, AngularJS
+- Laravel, Codeigniter, Symfony, ASP.NET, Ruby on Rails
+- Java(Spring, Struts, Hibernate), JavaFX, C#, C++
+- HTML5/CSS3, Bootstrap, Jquery, Sass, Material Design Lite, Material-UI
+- Firebase, MongoDB, Mysql, Oracle
+- Amazon Web Service, Single Page Application, Algolia Search, Elastic Search
+- Managing the apache tomcat server, managing the search engine and managing the 
+oracle server and mysql server.
+- Source Repository, TestFlight, Github, SVN, BitBucket
+
+Mobile Apps include ;
+
+- Photo editors, Video editors, Games ,Social Network apps
+
+I learned quick programming tips and profound knowledge in Java, Php, Objective-C and Swift programming.
+
+As a developer, I love to design the app and to code and test.
+
+I am familiar with git and agile development method with Basecamp, JIRA and Trello.
+
+And I am familiar with developing for java spring framework and configuring the many servers(including video server ,search engine server and apache tomcat server).
+
+Having done successful projects in the past years, I will complete upcoming projects successfully.
+
+
+
+------------------Example 6---------------------------
+
+Hello Client!
+
+I'm interesting in your job.
+
+https://www.israel.tv
+https://salonistan.com/
+
+I've developed these sites last year.
+
+I've developed back end and Front end
+
+My skill is following....
+
+- Laravel, Codeigniter, Symfony, ...
+- HTML5/CSS3, Bootstrap, Jquery, Sass, Material Design Lite, Material-UI
+- Firebase, MongoDB, Mysql, Oracle
+- Source Repository, TestFlight, Github, SVN, BitBucket
+
+Let's discuss more detail.
+
+Thanks.
+
+notes:) Until you trust me, I'll work on lower price.
+
+------------Example7-----------------
+Hello, Client!
+
+I am a full stack web and mobile developer with Bachelor's degree and strong software development experience for last 9+ years.
+
+https://www.israel.tv
+
+You can check my skill at this site.
+
+I've developed this site using php and mongo db last year.
+
+And I've developed android and ios app, samsung tv app, kodi app.
+
+Let's discuss more detail.
+
+I hope to work long time with you.
+
+Thanks.
